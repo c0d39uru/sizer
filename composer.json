@@ -1,0 +1,18 @@
+{
+    "name": "justice/sizer",
+    "description": "A utility class that takes care of bit/byte sizing",
+    "authors": [
+        {
+            "name": "Mohammad Khaledi",
+            "email": "mk_justice@yahoo.com"
+        }
+    ],
+     "require-dev": {
+	"raveren/kint": "^1.0"	
+    },
+    "autoload": {
+        "psr-4": {
+		"Sizer\\": "src/"
+	}
+    }
+}
