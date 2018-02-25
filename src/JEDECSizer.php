@@ -6,6 +6,6 @@ class JEDECSizer implements Sizable
 {
     public function aKilo() : int
     {
-        return (1 << 10);
+        return 1 << 10;
     }
 }

@@ -47,4 +47,7 @@ echo $sizer->toBytes();//3145728 bytes
 
 ## Tests
 To run the tests, you need PHPUnit 7 to be installed first. Then simply execute the following command
-`phpunit tests/`
+`phpunit`
+
+## Notes
+This is PHP7-compliant
